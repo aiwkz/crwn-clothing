@@ -17,6 +17,6 @@ const SignIn = () => {
             <SignUpForm />
         </div>
     );
-}
+};
 
 export default SignIn;
